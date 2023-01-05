@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location_name">location Name</string>
+    <string name="temp"> fake 28°C</string>
+    <string name="weather_desc">weather desc</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="dummy_wind_speed">fake 14.7</string>
+    <string name="pressure">Pressure</string>
+    <string name="dummy_pressure">fake 20</string>
+    <string name="humidity">Humidity</string>
+    <string name="dummy_humidity">fake 25</string>
+    <string name="city_name">city name</string>
+    <string name="save_weather_data">Save Weather Data</string>
+</resources>
